@@ -1,4 +1,4 @@
-﻿using JornadaMilhasV1.Gerencidor;
+﻿using JornadaMilhasV1.Gerenciador;
 using JornadaMilhasV1.Modelos;
 
 List<OfertaViagem> listaOfertasViagem = new List<OfertaViagem>();
